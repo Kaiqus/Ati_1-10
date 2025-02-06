@@ -1,2 +1,2 @@
 # Ati_1-10
-Exercicios
+Exercicios em C
